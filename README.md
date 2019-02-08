@@ -22,4 +22,4 @@ You need the following libraries from adafruit, use [this](https://www.arduino.c
 - Adafruit SSD1306
 
 ## Licence
-All code is released under [MIT licence](LICENSE.md)
+All code is released under [MIT licence](LICENSE)
